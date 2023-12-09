@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on Automation with Python
 - 🌱 I’m currently learning Intermediate Python
-- 👯 I’m looking to collaborate on small to medium
+- 👯 I’m looking to collaborate on small to medium projects
 - 📫 How to reach me: linkedin.com/in/joshm78
