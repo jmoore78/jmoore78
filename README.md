@@ -1,6 +1,6 @@
 ## Hi I'm Josh Moore and I am a Full Stack Developer
 
-### PYTHON | FLASK | SQL | NODE | EXPRESS | JAVASCRIPT | HTML | CSS | BOOTSTRAP
+### PYTHON | FLASK | NODE | EXPRESS | JAVASCRIPT | SQL | HTML | CSS | BOOTSTRAP
 
 - 🔭 I’m currently working on Automation with Python
 - 🌱 I’m currently learning Intermediate Python
