@@ -5,4 +5,6 @@
 - 🔭 I’m currently working on Automation with Python
 - 🌱 I’m currently learning Intermediate Python
 - 👯 I’m looking to collaborate on small to medium projects
+- :atom: Fun Fact
+  I enjoy homebrewing wine!
 - 📫 How to reach me: linkedin.com/in/joshm78
