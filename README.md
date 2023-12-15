@@ -1,6 +1,6 @@
 ## Hi I'm Josh and I am a Full Stack Developer interested in automation!
 
-### PYTHON | FLASK | NODE | EXPRESS | JAVASCRIPT | SQL | HTML | CSS | BOOTSTRAP
+### PYTHON | FLASK | JAVASCRIPT | NODE | EXPRESS | SQL | HTML | CSS | BOOTSTRAP
 
 - 🔭 I’m currently working towards
   Automation and Machine Learning with Python
