@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working towards
   Automation and Machine Learning with Python
-- 🌱 I’m currently reviewing
-  Intermediate Python
+- 🌱 I’m currently working on a web crawler
 - 👯 I’m looking to collaborate on
   small to medium projects but open to anything
 - :test_tube: Fun Fact
